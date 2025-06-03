@@ -1,0 +1,9 @@
+<!-- resources.qrc -->
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/icon1.png</file>
+        <file>icons/icon2.png</file>
+        <file>icons/icon3.png</file>
+        <!-- 添加更多图标 -->
+    </qresource>
+</RCC>
