@@ -1,0 +1,4 @@
+click
+neutral
+swipe_left
+swipe_right
